@@ -1,3 +1,10 @@
 .picture {
 	margin-top: 56px;
 }
+.title {
+	font-size: 2rem;
+	color: #4eb8c9; 
+	text-align: center;
+	text-shadow: 4px 4px #eee;
+	font-family: 'Kaushan Script', cursive;
+}
