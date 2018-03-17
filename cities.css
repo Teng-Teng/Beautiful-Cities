@@ -36,3 +36,9 @@ a.link {
 	font-family: 'Kaushan Script', cursive;
 	font-size: 1.1rem;
 }
+.font {
+font-family: 'Courgette', cursive;
+}
+nav.font {
+	font-size: 1.1rem;
+}
