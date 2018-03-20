@@ -24,6 +24,7 @@
 	text-shadow: 2.5px 2.5px white;
 }
 h5.card-title {
+	text-shadow: 4px 4px #eee;
 	font-family: 'Kaushan Script', cursive;
 	font-size: 1.5rem;
 	font-weight: 700;
@@ -41,4 +42,7 @@ font-family: 'Courgette', cursive;
 }
 nav.font {
 	font-size: 1.1rem;
+}
+.carousel {
+	margin-top: 58.4px;
 }
