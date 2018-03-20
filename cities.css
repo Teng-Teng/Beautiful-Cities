@@ -46,3 +46,6 @@ nav.font {
 .carousel {
 	margin-top: 58.4px;
 }
+.card-body p {
+	text-align: justify;
+}
